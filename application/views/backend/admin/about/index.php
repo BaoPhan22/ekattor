@@ -82,7 +82,7 @@
               </p>
               <p style="margin-top: 8px;">
                 <i class="mdi mdi-square"></i> <?php echo get_phrase('get_customer_support'); ?>
-                <span class="float-end"><a href="http://support.creativeitem.com" target="_blank" style="color: #343a40;"> <i class="mdi mdi-telegram"></i> <?php echo get_phrase('customer_support'); ?> </a> </span>
+                <span class="float-end"><a href="https://meyzer360.com/" target="_blank" style="color: #343a40;"> <i class="mdi mdi-telegram"></i> <?php echo get_phrase('customer_support'); ?> </a> </span>
               </p>
             </div>
           </div>

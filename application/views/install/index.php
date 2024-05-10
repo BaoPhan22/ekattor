@@ -5,10 +5,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="description" content="Creativeitem Software Installation" />
-	<meta name="author" content="Creativeitem" />
+	<meta name="description" content="Meyzer Software Installation" />
+	<meta name="author" content="Meyzer" />
 	<link rel="shortcut icon" href="<?php echo base_url('uploads/system/logo/favicon.png'); ?>">
-	<title>Installation | Ekattor</title>
+	<title>Installation | Meyzer</title>
 	<?php include 'styles.php'; ?>
 </head>
 <body class="page-body">

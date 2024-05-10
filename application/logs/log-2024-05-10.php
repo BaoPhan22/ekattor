@@ -295,3 +295,13 @@ ERROR - 2024-05-10 08:41:23 --> 404 Page Not Found: Assets/fonts
 ERROR - 2024-05-10 08:41:23 --> 404 Page Not Found: Assets/fonts
 ERROR - 2024-05-10 08:41:23 --> 404 Page Not Found: Assets/fonts
 ERROR - 2024-05-10 08:41:23 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:51 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:51 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:51 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:51 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:51 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:54 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:54 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:54 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:54 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-05-10 08:41:54 --> 404 Page Not Found: Assets/fonts

@@ -50,7 +50,7 @@
                   <div class="form-group">
             				<label class="col-sm-3 control-label">System Name</label>
             				<div class="col-sm-5">
-            					<input type="text" class="form-control" name="system_name" placeholder="Ekattor School Manager"
+            					<input type="text" class="form-control" name="system_name" placeholder="Meyzer School Manager"
                         required autofocus>
             				</div>
                     <div class="col-sm-4" style="font-size: 12px;">

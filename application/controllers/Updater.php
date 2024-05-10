@@ -3,11 +3,11 @@ if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
 /*
-*  @author   : Creativeitem
+*  @author   : Meyzer
 *  date      : November, 2019
-*  Ekattor School Management System With Addons
-*  http://codecanyon.net/user/Creativeitem
-*  http://support.creativeitem.com
+*  Meyzer School Management System With Addons
+*  https://meyzer360.com/
+*  https://meyzer360.com/
 */
 
 class Updater extends CI_Controller

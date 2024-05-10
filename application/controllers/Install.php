@@ -3,11 +3,11 @@ if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
 /*
- *  @author   : Creativeitem
+ *  @author   : Meyzer
  *  date    : .17 December, 2019
  *  Academy
- *  http://codecanyon.net/user/Creativeitem
- *  http://support.creativeitem.com
+ *  https://meyzer360.com/
+ *  https://meyzer360.com/
  */
 
      ini_set('max_execution_time', 0);
