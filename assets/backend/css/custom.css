@@ -1,13 +1,17 @@
-.title_icon{
+*:not(*[class^="dripicons-"]):not(.menu-arrow) {
+  font-family: "Inter", Helvetica, Arial, sans-serif !important;
+}
+
+.title_icon {
   font-size: 25px;
 }
-.empty_box{
-  opacity: .8;
+.empty_box {
+  opacity: 0.8;
   text-align: center;
   width: 100%;
   padding: 25px;
 }
-.modal_height{
+.modal_height {
   height: 100%;
 }
 
@@ -15,14 +19,14 @@
   min-width: 430px;
   width: 430px;
 }
-@media (max-width: 576px){
+@media (max-width: 576px) {
   .modal-right {
     min-width: calc(100vw - 40px);
     width: calc(100vw - 40px);
   }
 }
 
-.modal-right form{
+.modal-right form {
   max-width: 400px;
 }
 
@@ -61,11 +65,12 @@
   font-size: 13px;
   padding: 11px 17px;
   border: none;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
   @include transition(all 0.2s ease-in);
   float: left; /* IE 9 Fix */
-  &:hover, &:focus {
-    background-color: #BDBDBD;
+  &:hover,
+  &:focus {
+    background-color: #bdbdbd;
     outline: none;
   }
 }
@@ -79,23 +84,23 @@
   padding-bottom: 12px;
   border: none;
   margin-left: -1px;
-  background-color: #E0E0E0;
+  background-color: #e0e0e0;
   float: left; /* IE 9 Fix */
   @include transition(all 0.2s ease-in);
   &:hover {
-    background-color: #BDBDBD;
+    background-color: #bdbdbd;
   }
 }
 
 /* JS-Image Previewer CSS STARTS */
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url("https://fonts.googleapis.com/css?family=Raleway");
 
 // variables
 $base-color: cadetblue;
-$base-font: 'Raleway', sans-serif;
+$base-font: "Raleway", sans-serif;
 
-.wrapper-image-preview{
+.wrapper-image-preview {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -110,8 +115,8 @@ $base-font: 'Raleway', sans-serif;
   margin: 10px;
   background-color: white;
   border-radius: 5px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
   overflow: hidden;
 }
 
@@ -146,8 +151,8 @@ $base-font: 'Raleway', sans-serif;
     cursor: pointer;
     overflow: hidden;
     &::after {
-      content: 'add';
-      font-family: 'Material Icons';
+      content: "add";
+      font-family: "Material Icons";
       position: absolute;
       font-size: 2.5rem;
       color: rgba(230, 230, 230, 1);
@@ -175,14 +180,14 @@ $base-font: 'Raleway', sans-serif;
   width: 100%;
   position: relative;
   overflow: hidden;
-  background-image: url('https://www.l-nutra.com/wp-content/uploads/2018/07/placeholder.png');
+  background-image: url("https://www.l-nutra.com/wp-content/uploads/2018/07/placeholder.png");
   background-color: white;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   &::after {
     content: "photo_size_select_actual";
-    font-family: 'Material Icons';
+    font-family: "Material Icons";
     position: relative;
     font-size: 4.5em;
     color: rgba(230, 230, 230, 1);
@@ -194,7 +199,7 @@ $base-font: 'Raleway', sans-serif;
     display: none;
   }
   &:nth-child(2) {
-    background-image: url('http://bastianandre.at/giphy.gif');
+    background-image: url("http://bastianandre.at/giphy.gif");
   }
 }
 
@@ -209,9 +214,9 @@ i.material-icons {
 .drop {
   display: block;
   position: absolute;
-  background: transparentize($base-color, .8);
+  background: transparentize($base-color, 0.8);
   border-radius: 100%;
-  transform:scale(0);
+  transform: scale(0);
 }
 
 .animate {
@@ -223,7 +228,10 @@ i.material-icons {
 }
 
 @keyframes ripple {
-  100% {opacity: 0; transform: scale(2.5);}
+  100% {
+    opacity: 0;
+    transform: scale(2.5);
+  }
 }
 /* JS-Image Previewer CSS ENDS */
 
@@ -231,7 +239,7 @@ i.material-icons {
   color: white !important;
 }
 .readonly {
-  pointer-events:none;
+  pointer-events: none;
   background: none;
 }
 .visit_website {
@@ -382,118 +390,119 @@ i.material-icons {
 .notice-calendar-section .fc-body {
   cursor: copy;
 }
-.ml--6{
+.ml--6 {
   margin-left: -6px;
 }
-.w-250{
+.w-250 {
   width: 250px;
 }
-.bg-F5F5F5{
-  background-color: #F5F5F5;
+.bg-F5F5F5 {
+  background-color: #f5f5f5;
 }
-.vb-hidden{
-  visibility:hidden;
+.vb-hidden {
+  visibility: hidden;
 }
-.bg_course_thumbnail{
-   background-repeat: no-repeat;
-   background-size: 100% 100%;
-   height: 200px;
+.bg_course_thumbnail {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 200px;
 }
-.h-5px{
+.h-5px {
   height: 5px;
 }
-.bg-green-low{
+.bg-green-low {
   background-color: #1ada9d;
 }
 .progress_value_count {
   font-size: 12px;
   margin-top: -6px;
 }
-.mw-50{
+.mw-50 {
   min-width: 50%;
 }
-.dv_none{
+.dv_none {
   display: none;
 }
-.font-size-24{
+.font-size-24 {
   font-size: 24px;
 }
-.font-size-20{
+.font-size-20 {
   font-size: 20px;
 }
-.border-r-0{
+.border-r-0 {
   border-radius: 0px;
 }
-.margin-m{
+.margin-m {
   margin: 20px 0;
 }
-.margin-ms{
+.margin-ms {
   margin: 12px 10px;
 }
-.m-10-1{
+.m-10-1 {
   margin: 12px -1px;
 }
-.bg-as-important{
+.bg-as-important {
   background-color: #e2e2e2 !important;
 }
-.course-sidebar-td{
+.course-sidebar-td {
   text-align: left;
-  padding:7px 10px;
+  padding: 7px 10px;
 }
-.course-sidebar-td{
+.course-sidebar-td {
   width: 100%;
   padding: 5px 0px;
 }
-.h-fc{
+.h-fc {
   color: #959aa2;
   font-size: 13px;
 }
-.icon-st{
+.icon-st {
   float: right;
   font-weight: 100;
 }
-.lst{
+.lst {
   font-size: 14px;
   font-weight: 400;
 }
-.button-stk{
+.button-stk {
   color: #535a66;
   background: none;
   border: none;
   white-space: normal;
 }
-.ui-helper-hidden-accessible{
+.ui-helper-hidden-accessible {
   display: none;
 }
-.text-14{
+.text-14 {
   font-size: 14px !important;
 }
-.text-20{
+.text-20 {
   font-size: 20px;
 }
-.mr-3px{
+.mr-3px {
   margin-right: 3px;
 }
-.px-20{
+.px-20 {
   padding-left: 20px;
   padding-right: 20px;
 }
-.cursor-pointer{
+.cursor-pointer {
   cursor: pointer;
 }
-.display-none{
+.display-none {
   display: none;
 }
-button.close, a.close{
+button.close,
+a.close {
   border: 1px solid #e5e5e5;
 }
-label.error{
+label.error {
   color: #ff0000;
   font-size: 13px;
 }
-.dropdown button.show{
+.dropdown button.show {
   display: inline-block !important;
 }
-.note-toolbar.card-header{
-    position: relative !important;
+.note-toolbar.card-header {
+  position: relative !important;
 }

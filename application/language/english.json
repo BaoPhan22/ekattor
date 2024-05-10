@@ -620,7 +620,7 @@
     "teacher_has_been_updated_successfully": "Teacher has been updated successfully",
     "upload_image": "Upload image",
     "about_us": "About us",
-    "upcomig_events": "Upcomig events",
+    "upcomig_events": "Upcoming events",
     "event_list": "Event list",
     "photo_gallery": "Photo gallery",
     "albums": "Albums",
@@ -1262,5 +1262,6 @@
     "provide_driver_gender": "Provide driver gender",
     "provide_driver_blood_group": "Provide driver blood group",
     "provide_driver_address": "Provide driver address",
-    "some_of_the_emails_have_been_taken": "Some of the emails have been taken"
+    "some_of_the_emails_have_been_taken": "Some of the emails have been taken",
+    "upcoming_events": "Upcoming events"
 }

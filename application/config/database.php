@@ -80,7 +80,7 @@ $db['default'] = array(
 	'password' => '',
 	'database' => 'ekattor',
 	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
+	'dbprefix' => 'meyzerschool_',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
 	'cache_on' => FALSE,

@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="<?php echo base_url();?>assets/frontend/<?php echo $theme;?>/vendor/cubeportfolio/css/cubeportfolio.min.css">
 
 <!-- CSS Front Template -->
+<link rel="stylesheet" id="inter-font" type="text/css" href="<?php echo base_url();?>assets/fonts/inter.css">
 <link rel="stylesheet" href="<?php echo base_url();?>assets/frontend/<?php echo $theme;?>/css/theme.css">
 <link rel="stylesheet" href="<?php echo base_url();?>assets/toastr/toastr.min.css">
 <link rel="stylesheet" href="<?php echo base_url();?>assets/frontend/<?php echo $theme;?>/css/custom.css">
