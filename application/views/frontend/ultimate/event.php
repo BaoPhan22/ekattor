@@ -26,7 +26,7 @@
     <div class="container space-2 space-md-2">
       <!-- Title -->
       <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-9">
-        <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('Events'); ?></span>
+        <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('Events'); ?></span>
         <h2 class="text-primary"><?php echo get_phrase('Upcoming and past events'); ?></h2>
       </div>
       <!-- End Title -->

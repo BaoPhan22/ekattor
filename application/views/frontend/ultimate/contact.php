@@ -22,7 +22,7 @@
 
     <!-- Title -->
     <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5">
-      <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('Contact info'); ?></span>
+      <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('Contact info'); ?></span>
     </div>
     <!-- End Title -->
     <div class="row no-gutters">
@@ -96,7 +96,7 @@
   <div class="container space-2 space-md-3">
     <!-- Title -->
     <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-9">
-      <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('Contact form'); ?></span>
+      <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('Contact form'); ?></span>
       <h2 class="text-primary font-weight-normal">
         <?php echo get_phrase('Send us a message'); ?>
       </h2>

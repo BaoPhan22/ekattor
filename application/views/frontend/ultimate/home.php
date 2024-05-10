@@ -50,7 +50,7 @@
             <div class="pr-md-4">
               <!-- Title -->
               <div class="mb-7">
-                <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('About'); ?></span>
+                <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('About'); ?></span>
                 <h2 class="text-primary">
                   <?php echo get_frontend_settings('homepage_note_title'); ?>
                 </h2>
@@ -87,7 +87,7 @@
     <div class="container space-2 space-md-3">
       <!-- Title -->
       <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-9">
-        <span class="btn btn-xs btn-soft-success btn-pill mb-2">Teachers</span>
+        <span class="btn btn-xs btn-soft-primary btn-pill mb-2">Teachers</span>
         <h2 class="text-primary">Our Professional Teachers</span></h2>
       </div>
       <!-- End Title -->
@@ -184,7 +184,7 @@
           <div class="container space-2 space-md-3">
             <!-- Title -->
             <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-9">
-              <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('Events'); ?></span>
+              <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('Events'); ?></span>
               <h2 class="text-primary"><?php echo get_phrase('Upcoming Events'); ?></h2>
             </div>
             <!-- End Title -->

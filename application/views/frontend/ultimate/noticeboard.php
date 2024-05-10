@@ -31,7 +31,7 @@
 
       <!-- Title -->
       <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-9">
-        <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('Notices'); ?></span>
+        <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('Notices'); ?></span>
         <h2 class="text-primary"><?php echo get_phrase('Follow up school notices'); ?></h2>
       </div>
       <!-- End Title -->

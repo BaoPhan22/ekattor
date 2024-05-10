@@ -27,7 +27,7 @@
 
       <!-- Title -->
       <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5">
-        <span class="btn btn-xs btn-soft-success btn-pill mb-2">
+        <span class="btn btn-xs btn-soft-primary btn-pill mb-2">
           <?php echo date('d M, Y', $row['date_added']); ?>
         </span>
         <h2 class="text-primary">

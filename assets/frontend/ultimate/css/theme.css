@@ -4960,8 +4960,8 @@ input[type="button"].btn-block {
   z-index: 2;
   color: #a31d22;
   text-decoration: none;
-  background-color: rgba(55, 125, 255, 0.1);
-  border-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
+  border-color: #ddd;
 }
 
 .page-link:focus {
@@ -17032,7 +17032,7 @@ button:focus {
 /* primary air */
 .btn-soft-primary {
   color: #a31d22;
-  background: rgba(55, 125, 255, 0.1);
+  background: #ddd;
   border-color: transparent;
 }
 
@@ -17044,7 +17044,7 @@ button:focus {
 
 .btn-soft-primary[href].disabled, .btn-soft-primary[href]:disabled, .btn-soft-primary[type].disabled, .btn-soft-primary[type]:disabled {
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
   box-shadow: none;
 }
 
@@ -18287,7 +18287,7 @@ label.btn {
   position: relative;
   top: 1px;
   padding: .25rem .25rem .25rem .75rem;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
   border-radius: 6.1875rem;
 }
 
@@ -18341,7 +18341,7 @@ label.btn {
 
 .u-sidebar--account__list-link.active, .u-sidebar--account__list-link:hover {
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
 }
 
 .u-sidebar--account__list-link.active .u-sidebar--account__list-icon, .u-sidebar--account__list-link:hover .u-sidebar--account__list-icon {
@@ -18716,7 +18716,7 @@ label.btn {
 ------------------------------------*/
 .custom-select:focus,
 .form-control:focus {
-  box-shadow: 0 0 25px rgba(55, 125, 255, 0.1);
+  box-shadow: 0 0 25px #ddd;
   border-color: rgba(55, 125, 255, 0.5);
 }
 
@@ -18864,7 +18864,7 @@ label.btn {
 .u-focus-state .custom-select,
 .u-focus-state .input-group,
 .u-focus-state .form-control:first-child:last-child {
-  box-shadow: 0 0 25px rgba(55, 125, 255, 0.1);
+  box-shadow: 0 0 25px #ddd;
 }
 
 .u-focus-state .input-group-text {
@@ -19159,7 +19159,7 @@ label.btn {
 }
 
 .u-range-slider-grid .irs-grid-text.current {
-  background: rgba(55, 125, 255, 0.1);
+  background: #ddd;
   color: #a31d22;
 }
 
@@ -19337,7 +19337,7 @@ label.btn {
 .u-go-to-ver-arrow {
   display: inline-block;
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
   padding: 2rem 1rem;
   border-radius: 6.1875rem;
 }
@@ -19696,7 +19696,7 @@ label.btn {
 
 .u-media-player__icon--primary {
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
 }
 
 .u-media-player__icon--success {
@@ -20572,7 +20572,7 @@ label.btn {
   line-height: 0;
   display: inline-block;
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
   width: 2.5rem;
   height: 2.5rem;
   font-size: 0.875rem;
@@ -21231,7 +21231,7 @@ label.btn {
 }
 
 .gradient-half-primary-v3 {
-  background-image: linear-gradient(0deg, rgba(55, 125, 255, 0.1) 0%, transparent 100%);
+  background-image: linear-gradient(0deg, #ddd 0%, transparent 100%);
   background-repeat: repeat-x;
 }
 
@@ -21348,7 +21348,7 @@ label.btn {
   height: 1.375rem;
   font-size: 1rem;
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
   border-radius: 50%;
   transition: 0.3s;
 }
@@ -21627,7 +21627,7 @@ label.btn {
   Background Soft Colors
 ------------------------------------*/
 .bg-soft-primary {
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
 }
 
 .bg-soft-secondary {
@@ -22457,7 +22457,7 @@ label.btn {
   font-size: 1rem;
   color: #a31d22;
   text-align: center;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
   border-radius: 0.3125rem;
   margin-right: .75rem;
 }
@@ -22566,7 +22566,7 @@ label.btn {
 
 .u-datepicker .flatpickr-day:focus, .u-datepicker .flatpickr-day:hover {
   color: #a31d22;
-  background-color: rgba(55, 125, 255, 0.1);
+  background-color: #ddd;
 }
 
 .u-datepicker .flatpickr-day.inRange {

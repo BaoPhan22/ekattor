@@ -27,7 +27,7 @@
 
       <!-- Title -->
       <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-9">
-        <span class="btn btn-xs btn-soft-success btn-pill mb-2"><?php echo get_phrase('Albums'); ?></span>
+        <span class="btn btn-xs btn-soft-primary btn-pill mb-2"><?php echo get_phrase('Albums'); ?></span>
         <h2 class="text-primary"><?php echo get_phrase('Our latest photo galleries'); ?></h2>
       </div>
       <!-- End Title -->
